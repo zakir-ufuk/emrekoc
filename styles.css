@@ -176,8 +176,7 @@ body {
 h1 {
     font-size: 2rem;
     font-weight: 700;
-    margin-bottom: 0.25rem;
-    /* Reduced margin */
+    margin-bottom: 1.75rem;
     background: linear-gradient(to right, #fff, #cbd5e1);
     -webkit-background-clip: text;
     background-clip: text;
